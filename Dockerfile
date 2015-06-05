@@ -2,8 +2,8 @@ from centos
 
 run yum -y update
 
-run yum install sshd
+run yum install ssh
 
-run which sshd
+run which ssh
 
 expose 22
