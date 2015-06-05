@@ -1,6 +1,6 @@
 from centos
 
-run yum update
+run yum -y update
 
 run which ssh
 
