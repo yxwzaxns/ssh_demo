@@ -1,4 +1,4 @@
-image: centos:6.5
+from centos:6.5
 
 run yum update
 
