@@ -1,4 +1,4 @@
-from centos:6.5
+from centos
 
 run yum update
 
